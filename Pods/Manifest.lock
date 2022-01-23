@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (5.5.0)
+  - Cosmos (23.0.0)
+  - JGProgressHUD (2.2)
+  - SDWebImage (5.12.2):
+    - SDWebImage/Core (= 5.12.2)
+  - SDWebImage/Core (5.12.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.5)
+  - Cosmos (~> 23.0)
+  - JGProgressHUD
+  - SDWebImage
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Cosmos
+    - JGProgressHUD
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  Alamofire: 1c4fb5369c3fe93d2857c780d8bbe09f06f97e7c
+  Cosmos: b5c6a9a637e28a061b54c8f8b1d8529d7d4db73f
+  JGProgressHUD: d83d7a981b85d11205e19ff8ad5bb9c40571c847
+  SDWebImage: 240e5c12b592fb1268c1d03b8c90d90e8c2ffe82
+
+PODFILE CHECKSUM: a9854609e9e315092fc103fb40c605f8c0964b13
+
+COCOAPODS: 1.11.2

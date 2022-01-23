@@ -1,0 +1,6 @@
+framework module Pods_Astute_Assignment {
+  umbrella header "Pods-Astute Assignment-umbrella.h"
+
+  export *
+  module * { export * }
+}
