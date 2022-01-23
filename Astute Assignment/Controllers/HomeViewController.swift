@@ -30,7 +30,7 @@ class HomeViewController: UIViewController {
     
     func designWedgits() {
         Utills.shared.addCornerRadiusAndShadowToView(view: listGridConvertionView, cornerRadious: 8, shadowColor: CGColor.init(red: 0, green: 0, blue: 0, alpha: 0.23), shadowOpacity: 6, shadowWidth: 0, shadowHeight: 3)
-        width = 165
+        width = self.collectionView.frame.width / 2
         self.height = 200
     }
     
